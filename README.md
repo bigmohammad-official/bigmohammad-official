@@ -1,6 +1,6 @@
-- 👋 Hi Im bigmohammad
-- 👀 I work in the area of ​​penetration security
-- 💞️ I hope you like what I do
+- ✔ Hi Im bigmohammad
+- ✔ I work in the area of ​​penetration security
+- ✔ I hope you like what I do
 
 
 <!---
